@@ -1,0 +1,26 @@
+var float x1;
+var float x2; /* coordenadas del 1er punto */ 
+var float y1;
+var float y2; /* coordenadas del 2do punto */
+var float m; /* pendiente de la recta */
+var float g1;
+var float g2;
+sin(y2);
+print("escriba el valor de x1: ");
+read(x1);
+print("escriba el valor de x2: ");
+read(x2);
+print("escriba el valor de y1: ");
+read(y1);
+print("escriba el valor de y2: ");
+read(y2);
+cos(y1);
+print("escriba el valor de g1: ");
+read(g1);
+print("escriba el valor de g2: ");
+read(g2);
+var_final = (y2 - y1) / (x2 - x1 + g1) * g2;
+tan(x2);
+print("la pendiente es: ", m);
+end;
+

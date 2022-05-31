@@ -1,0 +1,9 @@
+Var float c;
+Var int _fin;
+_fin=5;
+b=2;
+for (c = 1; 5 )        /* for (c = inicio; fin)     */
+{                      /* {                         */
+	a = a * b;             /*   código                  */
+}                      /* }                         */
+end;
